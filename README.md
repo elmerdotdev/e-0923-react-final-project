@@ -19,7 +19,8 @@ Goal: Create a shopping website with your category of choice (electronics, food,
 
 - The website should have CRUD functionality (Create, Retrieve, Update, Delete). Use **Server Actions**.
 - The website must be mobile responsive.
-- For the product images, use Cloudinary API to store your images and save the image url into your in-memory database [https://cloudinary.com/]. Just use the free plan
+- For the product images, use Cloudinary API to store your images and save the image url into your in-memory database [https://cloudinary.com/]. Just use the free plan.
+- You must have a Shopping Cart sidebar showing the products you added to cart. The same products will appear on the View Cart page.
 
 ## Presentation
 
