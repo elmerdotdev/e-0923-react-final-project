@@ -21,6 +21,13 @@ Goal: Create a shopping website with your category of choice (electronics, food,
 - The website must be mobile responsive.
 - For the product images, use Cloudinary API to store your images and save the image url into your in-memory database [https://cloudinary.com/]. Just use the free plan.
 - You must have a Shopping Cart sidebar showing the products you added to cart. The same products will appear on the View Cart page.
+- Clicking on the product image on the Product List page should open a modal showing the product image. On the modal, you can display details like Product Name, Product Price, Product Image, Add to Cart button.
+
+## Tips
+
+- Please check out Behance [https://www.behance.net/] for some inspiration for your design. But I will focus more on the functionality.
+- If you are going to use a Google Font, NextJS can support it [https://nextjs.org/docs/app/building-your-application/optimizing/fonts#google-fonts]
+- Use `<Image />` component for your product images
 
 ## Presentation
 
