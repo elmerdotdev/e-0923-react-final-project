@@ -2,6 +2,10 @@
 
 Goal: Create a shopping website with your category of choice (electronics, food, clothes, toys, etc.)
 
+## Installation
+
+Create a NextJS project with `npx create-next-app@14.1.0`
+
 ## Requirements
 
 - Your website should created using NextJS.
