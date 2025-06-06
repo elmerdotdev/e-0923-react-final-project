@@ -2,11 +2,11 @@
 
 **Goal:** Create a shopping website with your category of choice (electronics, food, clothes, toys, etc.)
 
-## Installation
+## Installation ⚙
 
 Create a NextJS project with `npx create-next-app final-project`.
 
-## Requirements
+## Requirements ✅
 
 - You must use a database (MongoDB or Postgres) for data storage.
 - There should be two roles, one for user and one for admin. Admin can add new products while the user can only view and checkout.
@@ -29,9 +29,7 @@ Create a NextJS project with `npx create-next-app final-project`.
 - You must have a Shopping Cart sidebar showing the products you added to cart. The same products will appear on the View Cart page.
 - Clicking on the product image on the Product List page should open a modal showing the product image. Use parallel and intercepting routes to achieve this. On the modal, you can display details like Product Name, Product Price, Product Image, Add to Cart button.
 
-## Tips
+## Tips 💡
 
 - Please check out Behance [https://www.behance.net/] for some inspiration for your design.
 - If you are going to use a Google Font, NextJS can support it [https://nextjs.org/docs/app/building-your-application/optimizing/fonts#google-fonts].
-- Use `<Image />` component for your product images.
-
