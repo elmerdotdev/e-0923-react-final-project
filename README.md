@@ -32,4 +32,5 @@ Create a NextJS project with `npx create-next-app final-project`.
 ## Tips 💡
 
 - Please check out Behance [https://www.behance.net/] for some inspiration for your design.
+- You can reuse your past projects' design and functionality.
 - If you are going to use a Google Font, NextJS can support it [https://nextjs.org/docs/app/building-your-application/optimizing/fonts#google-fonts].
